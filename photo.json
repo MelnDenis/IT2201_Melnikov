@@ -1,0 +1,30 @@
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "squirtle",
+    "url": "https://www.shutterstock.com/shutterstock/photos/2578415221/display_1500/stock-photo-outdoor-photo-of-cute-squirtle-stylish-lacoste-sportswear-big-sneakers-louis-vuitton-glasses-2578415221.jpg",
+    "thumbnailUrl": "https://www.shutterstock.com/shutterstock/photos/2578415221/display_1500/stock-photo-outdoor-photo-of-cute-squirtle-stylish-lacoste-sportswear-big-sneakers-louis-vuitton-glasses-2578415221.jpg/scale_1500"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "evee",
+    "url": "https://www.shutterstock.com/shutterstock/photos/2562730183/display_1500/stock-photo-pokemon-eevee-playing-around-in-mud-2562730183.jpg",
+    "thumbnailUrl": "https://www.shutterstock.com/shutterstock/photos/2562730183/display_1500/stock-photo-pokemon-eevee-playing-around-in-mud-2562730183.jpg"
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "pokemon",
+    "url": "https://www.shutterstock.com/shutterstock/photos/2540004183/display_1500/stock-photo-anime-artistic-image-of-pok-mon-style-monster-2540004183.jpg",
+    "thumbnailUrl": "https://www.shutterstock.com/shutterstock/photos/2540004183/display_1500/stock-photo-anime-artistic-image-of-pok-mon-style-monster-2540004183.jpg"
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "RWBY",
+    "url": "https://img.freepik.com/free-photo/anime-moon-landscape_23-2151645903.jpgt=st=1742547525~exp=1742551125~hmac=897eef9f8f0ec1b6ab0305955c1f8497a769eb6b59cf7f77497ba3db3718e9b6&w=1380",
+"thumbnailUrl": "https://img.freepik.com/free-photo/anime-moon-landscape_23-2151645903.jpg?t=st=1742547525~exp=1742551125~hmac=897eef9f8f0ec1b6ab0305955c1f8497a769eb6b59cf7f77497ba3db3718e9b6&w=1380"
+  }
+]
